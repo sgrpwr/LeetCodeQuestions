@@ -1,11 +1,3 @@
-package Java.Basic.Tree;
-
-public class DepthOfTree {
-    public static void main(String[] args) {
-
-    }
-}
-
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
